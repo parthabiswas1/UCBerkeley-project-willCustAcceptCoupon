@@ -1,6 +1,6 @@
 # UC Berkeley ML/AI project: Will Customer Accept the Coupon ?
 (Data analysis and visualization with python, pandas, dataframe, matplotlib, seaborn) \
-Project location: https://github.com/parthabiswas1/UCBerkeley-project-willCustAcceptCoupon/tree/main 
+Project location: https://github.com/parthabiswas1/UCBerkeley-project-willCustAcceptCoupon 
 
 ## Problem Statement
 
@@ -21,10 +21,10 @@ Below are a summary of observations and findings.
 
 ## Obsevations - **Bar coupons**
 
-- Drivers who go to Bars more frequently accept more bar coupons 
-- Drivers above 25 who go to Bars, accept more bar coupons
-- Drivers who have no kids and is not in farming or forestry accept more bar coupons
-- Drivers who are not economically well off, goes to affordbale resturants and earns below 50K accept more coupons 
+- Drivers who go to Bars more frequently accept more bar coupons (76%)
+- Drivers above 25 who go to Bars, accept more bar coupons (68.98%)
+- Drivers who have no kids and is not in farming or forestry accept more bar coupons (70.94%)
+- Drivers who are not economically well off, goes to affordbale resturants and earns below 50K accept more coupons (61.15%)
 - Only **41%** of Bar coupons overall were accepted which is low. This could mean  that the coupon appeal is to a targeted group - younger, no kids, lower income, jobs in more urban settings and frequent Bar goers. 
 
 ## Recommendations
