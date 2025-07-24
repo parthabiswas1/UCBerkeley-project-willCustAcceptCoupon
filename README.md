@@ -21,6 +21,8 @@ Below are a summary of observations and findings.
 
 ## Obsevations - **Bar coupons**
 
+![Bar coupon acceptance rates](images/bar_coupon_acceptance.png)
+
 - Drivers who go to Bars more frequently accept more bar coupons (76%)
 - Drivers above 25 who go to Bars, accept more bar coupons (68.98%)
 - Drivers who have no kids and is not in farming or forestry accept more bar coupons (70.94%)
@@ -33,6 +35,8 @@ Below are a summary of observations and findings.
 - Make the bar coupon more attractive to low income earners by increasing the discount rate or by combining it with resturant discount offers.
 
 ## Obsevations - **Coffee House coupons**
+
+![Coffee House coupon acceptance rates](images/coffee_coupon_acceptance.png)
 
 - Frequent coffee house visitors (1 or more per month) accepted more coupons(64.73% - 68.24%)
 - Morning coffee house visitors (10AM) have a higher coupon acceptance rate (63.43%).
